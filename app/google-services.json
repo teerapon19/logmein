@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714123757263",
+    "project_id": "log-me-in-test",
+    "storage_bucket": "log-me-in-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714123757263:android:57cd62b65d3efe7d3a59ba",
+        "android_client_info": {
+          "package_name": "com.npd.logmein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714123757263-oag5hsuhv8lfuhcemotaunfnea47m03k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpUQcZe0ZxwWd4lMj3PP_TZkMvCDBPC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714123757263-oag5hsuhv8lfuhcemotaunfnea47m03k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
